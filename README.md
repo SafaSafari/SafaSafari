@@ -30,6 +30,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SafaSafari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SafaSafari&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=safasafari&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/SafaSafari)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
