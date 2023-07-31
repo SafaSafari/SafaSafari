@@ -1,46 +1,35 @@
-<h1 align="center">Hi 👋, I'm Safa Safari</h1>
+# 💫 About Me:
+🔭 Reverse Engineer
 
-- 🏫  _Reverse Engineer_.
-- 🧠  I have experience to reverse Android, Arm64/32, Amd64/32.
-- 🏖️  I do Bug Bounty as a hobby.
-- 💻  I have experience on C / C++ / Php / Dart / Python.
+🧠 I have experience to reverse Android, Arm64/32, Amd64/32.
+
+🏖 I do Bug Bounty as a hobby.
+
+💻 I have experience on C / C++ / Php / Dart / Python.
+
+⚡️ Never Give Up
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safasafari&label=Profile%20views&color=0e75b6&style=flat" alt="safasafari" /> </p>
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white)](https://t.me/SafaSafari) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SafaSafari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SafaSafari.ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safasafari) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SafaSafari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SafaSafari3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SafaSafari) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SafaSafari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SafaSafari3" height="30" width="40" /></a>
-<a href="mailto:SafaSafari.ss@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="SafaSafari3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/SafaSafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SafaSafari" height="30" width="40" /></a>
-<a href="https://instagram.com/SafaSafari.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SafaSafari.ss" height="30" width="40" /></a>
-<a href="https://github.com/SafaSafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SafaSafari" height="30" width="40" /></a>
-<a href="https://t.me/SafaSafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="SafaSafari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SafaSafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SafaSafari" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SafaSafari&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SafaSafari&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaSafari&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-<a href="https://dart.dev" target="blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /></a>
-<a href="https://flutter.dev" target="blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-<a href="https://www.linux.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-<a href="https://www.php.net" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-<a href="https://postman.com" target="blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-<a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://www.sqlite.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SafaSafari&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### Reverse Engineering Skills:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- Jadx - Smali - Ghidra - Ida Pro
-- Burp suite - Frida
-- Arm64 - Arm - x86 - x86_64
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SafaSafari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SafaSafari&show_icons=true&theme=dark&locale=en&layout=compact" alt="SafaSafari" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=SafaSafari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SafaSafari&show_icons=true&theme=dark&locale=en" alt="SafaSafari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SafaSafari&theme=dark" alt="SafaSafari" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
